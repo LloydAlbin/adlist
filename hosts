@@ -1,0 +1,23 @@
+# Title: LloydAlbin/adlist
+#
+# This hosts file is amy personal list of sites to block
+#
+# Date: 01/06/2025
+# Number of unique domains: 1
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/LloydAlbin/adlist/master/hosts
+#
+# ===============================================================
+
+# Applovin, In game ads for Android
+0.0.0.0 prod-mediate-events.applovin.com
+# https://firebase.google.com/docs/remote-config/get-started?platform=ios
+0.0.0.0 firebaseremoteconfig.googleapis.com
+# https://www.axon.com/ai
+0.0.0.0 e.axon.ai
+# https://developers.facebook.com/docs/graph-api/
+0.0.0.0 graph.facebook.com
+# Rusian Search engine serving up ads
+0.0.0.0 yandex.ru
+# Find The Cat ads
+0.0.0.0 findthecat.s3.amazonaws.com
